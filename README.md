@@ -128,7 +128,7 @@ app.get('/terminator', (req, res) => {
 
 What do you see in your browser?
  - Both messages?
- - One message (which one)
+ - One message (which one) : one message. The first in the list
  - An error?
 
 Check terminal:
