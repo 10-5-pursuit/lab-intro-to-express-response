@@ -1,4 +1,4 @@
-What characters are allowed in a URL?
+<!-- What characters are allowed in a URL?
     || a-z, A-Z, 0-9, - _ . ! ~ * ' ( ) # $ @ & = + , :
     || NOT ALLOWED: space() tab(\t) newline(\n) carriage return(\r) null(\0) backslash
 
@@ -12,4 +12,4 @@ Is there a difference between /timgunn and /TimGunn and /tim/gunn? ||
         /tim/gunn and timGunn is a different route than tim-gunn.
 
 If you have a phrase like Here's looking at you, kid, how do you deal with the ' in Here's? 
-    || template literal
+    || template literal -->
